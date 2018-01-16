@@ -1,24 +1,30 @@
-# My first cool idea {#slug-one}
+# Hello, would you like to buy one of our utilitarian cars or one of our egoistic ones? {#ethical cars}
 
 #### Keywords {-}
 
-yaba, daba, do
+(filler - not sure what goes here)
 
-## A beginning.
+## A moment of decision
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+The car in front of you slams on its brakes. You feel the rush of adrenaline and your limbic system takes over. There's no time to stop. You swerve and collide with a car next to you. That driver and her three children in the backseat suffer traumatic injuries. You walk away unharmed.
 
-## A middle.
+Rewind.
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+The car in front of you slams on its brakes. You feel the rush of adrenaline and your limbic system takes over.  This time, your autonomous car makes the decision for you. With an instant calculation it slams on the brakes. You hit the car in front of you and airbags deploy. You suffer from a broken nose and the driver in front of you is unharmed. The woman pulls over safely with her three children and calls you an ambulance.
+
+What did the second car have that the first didn't? Troves of information, yes, and a lightning-quick algorithm. But it had something else too. It had knowledge of the other drivers around you and the impact of your decision on them. You were only aware of yourself and your own well-being (and how could you not be, driving a metal coffin at 60 miles per hour). But your car quickly calculated the expected utility of all those around you, weighted those utilities in accordance with its priorities, and chose the optimal solution.
+
+Well, this sounds fancy, but how does your car know how to weight your own well-being against that of another driver? In fact, as a consumer, why would you buy a car from manufacturer A that values you equivalently to those around me when you could buy a car from manufacturer B that values you at double the importance of those around you? Do you follow this to its end and buy the car that values you above all else? How do you feel when the situation is swapped, and another driver's car chooses to sacrifice you because you are less important than its passenger?
+
+## How do we build an ethical framework?
+
+This reveals an interesting misunderstanding about artificial intelligence: the mathematics are actually the easy part. It's the policy and human value alignment that is difficult.
 
 <!-- ...or include images directly from the web. Cite your sources! -->
 ```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
 knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
 ```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+## The future state.
 
-## An end.
-
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Society is going to have to become increasingly more comfortable making difficult ethical decisions as we have to explicitly program them into our systems.
