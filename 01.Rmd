@@ -1,30 +1,29 @@
 # Hello, would you like to buy one of our utilitarian cars or one of our egoistic ones? {#ethical cars}
 
-#### Keywords {-}
+#### Keywords {autonomous, self-driving, vehicles, cars, ethics,}
 
 (filler - not sure what goes here)
 
 ## A moment of decision
 
-The car in front of you slams on its brakes. You feel the rush of adrenaline and your limbic system takes over. There's no time to stop. You swerve and collide with a car next to you. That driver and her three children in the backseat suffer traumatic injuries. You walk away unharmed.
+The car in front of you slams on its brakes. You feel a rush of adrenaline. There's no time to stop. You swerve and collide with a car next to you. That driver and her two children in the backseat suffer traumatic injuries. You walk away unharmed.
 
 Rewind.
 
-The car in front of you slams on its brakes. You feel the rush of adrenaline and your limbic system takes over.  This time, your autonomous car makes the decision for you. With an instant calculation it slams on the brakes. You hit the car in front of you and airbags deploy. You suffer from a broken nose and the driver in front of you is unharmed. The woman pulls over safely with her three children and calls you an ambulance.
+The car in front of you slams on its brakes. You feel a rush of adrenaline.  This time, your autonomous car makes a decision for you. With an instant calculation it slams on the brakes. You hit the car in front of you and airbags deploy. You suffer from a few bruises and the driver in front of you is unharmed. The woman pulls over safely with her two children and calls an ambulance.
 
-What did the second car have that the first didn't? Troves of information, yes, and a lightning-quick algorithm. But it had something else too. It had knowledge of the other drivers around you and the impact of your decision on them. You were only aware of yourself and your own well-being (and how could you not be, driving a metal coffin at 60 miles per hour). But your car quickly calculated the expected utility of all those around you, weighted those utilities in accordance with its priorities, and chose the optimal solution.
+What did the second car have that the first didn't? Troves of information, yes, and a lightning-quick algorithm, but it had something else too. It had knowledge of the other drivers around you and the impact of your decision on them. Your fight or flight response focused on your own well-being, but your car quickly calculated the expected utility of all those around you, weighted those utilities in accordance with its preferences, and chose the optimal solution.
 
-Well, this sounds fancy, but how does your car know how to weight your own well-being against that of another driver? In fact, as a consumer, why would you buy a car from manufacturer A that values you equivalently to those around me when you could buy a car from manufacturer B that values you at double the importance of those around you? Do you follow this to its end and buy the car that values you above all else? How do you feel when the situation is swapped, and another driver's car chooses to sacrifice you because you are less important than its passenger?
+## Democratize ethics
 
-## How do we build an ethical framework?
+Well, that outcome sounds fancy, but how does your car know how to weight your own well-being against that of another driver? In fact, as a consumer, why would you buy a car from manufacturer A that values you equivalently to those around me when you could buy a car from manufacturer B that values you at five times the importance of those around you? Do you follow this to its end and buy the car that values you unequivocally? How would you feel if the tables were turned and another driver's car chooses to sacrifice you without hesitation?
 
-This reveals an interesting misunderstanding about artificial intelligence: the mathematics are actually the easy part. It's the policy and human value alignment that is difficult.
+This is a classic market failure - the tragedy of the commons. Everyone's self-interest inevitably depletes the common good. The solution to a market failure, of course, is policy. This does *not*, however, necessitate that we weight all persons equally. We could choose that model, but it's just one of many possible models. Most people don't want to drive cars that would just as soon kill the driver as anyone else, but most people also don't want cars on the road that only value the driver. We need a compromise.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+But here we run into a problem: the average person doesn't want to spend much time thinking about how autonomous agents should behave, and worse yet, they would rather not make a decision at all than make a hard decision. They don't realize that indecision is the worst possible decision; it lets any nefarious car manufacturer do whatever he wants to do to achieve maximum sales. So the problem is: how do we make it palatable for the average citizen to engage in developing a policy that reflects societal values?
 
-## The future state.
+I propose that we follow the example of our philosopher friends and pose thought experiments. These bite-sized problems break complex situations into structured, digestible pieces. Our policymakers (at any level of government) can survey their constituents, asking how they wish an autonomous vehicle to act in a variety of fictitious situations. For example, if the car has to choose between running over a baby or an adult, all else equal, what choice should it make? Any citizen who does not wish to answer need not, but by democratizing the process, we give everyone the opportunity to affect the society they will live in. The policymakers, in coordination with a data science team, can derive an empirical model to best fit respondents' wishes and legally mandate that all vehicle programmers follow that system of ethics.
 
-Society is going to have to become increasingly more comfortable making difficult ethical decisions as we have to explicitly program them into our systems.
+## By the people, for the people
+
+Society is going to have to become increasingly comfortable making difficult ethical decisions as we have to explicitly program them into our systems. There are autonomous agents making decisions right now that affect the well-being of humankind. Our reluctance to answer difficult philosophical questions means we are leaving the decision to corporations who are not necessarily aligned with the average citizen's best interests. By democratizing ethical policy, we empower the population to author their own future and simultaneously develop systems that elevate the greater good of society.
