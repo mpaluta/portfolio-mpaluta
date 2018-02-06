@@ -28,4 +28,4 @@ I propose that we follow the example of our philosopher friends and pose thought
 
 Society is going to have to become increasingly comfortable making difficult ethical decisions as we have to explicitly program them into our systems. There are autonomous agents making decisions right now that affect the well-being of humankind. Our reluctance to answer difficult philosophical questions means we are leaving the decision to corporations who are not necessarily aligned with the average citizen's best interests. By democratizing ethical policy, we empower the population to author their own future and simultaneously develop systems that elevate the greater good of society.
 
-Testing Bibliography. [@saxenian1994]
+Testing Bibliography. [@noauthor_moral_nodate]
