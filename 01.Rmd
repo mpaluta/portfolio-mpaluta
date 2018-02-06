@@ -1,8 +1,8 @@
 # Hello, would you like to buy one of our utilitarian cars or one of our egoistic ones? {#ethical cars}
 
-#### Keywords {autonomous, self-driving, vehicles, cars, ethics,}
+#### Keywords {-}
 
-(filler - not sure what goes here)
+autonomous, self-driving, vehicles, cars, ethics
 
 ## A moment of decision
 
@@ -10,7 +10,7 @@ The car in front of you slams on its brakes. You feel a rush of adrenaline. Ther
 
 Rewind.
 
-The car in front of you slams on its brakes. You feel a rush of adrenaline.  This time, your autonomous car makes a decision for you. With an instant calculation it slams on the brakes. You hit the car in front of you and airbags deploy. You suffer from a few bruises and the driver in front of you is unharmed. The woman pulls over safely with her two children and calls an ambulance.
+The car in front of you slams on its brakes. You feel a rush of adrenaline.  This time, your autonomous car makes a decision for you. With an instant calculation it slams on the brakes. You hit the car in front of you and airbags deploy. You suffer from a few bruises and the driver in front of you is unharmed. The woman pulls over safely with her two children and calls you an ambulance.
 
 What did the second car have that the first didn't? Troves of information, yes, and a lightning-quick algorithm, but it had something else too. It had knowledge of the other drivers around you and the impact of your decision on them. Your fight or flight response focused on your own well-being, but your car quickly calculated the expected utility of all those around you, weighted those utilities in accordance with its preferences, and chose the optimal solution.
 
@@ -27,3 +27,5 @@ I propose that we follow the example of our philosopher friends and pose thought
 ## By the people, for the people
 
 Society is going to have to become increasingly comfortable making difficult ethical decisions as we have to explicitly program them into our systems. There are autonomous agents making decisions right now that affect the well-being of humankind. Our reluctance to answer difficult philosophical questions means we are leaving the decision to corporations who are not necessarily aligned with the average citizen's best interests. By democratizing ethical policy, we empower the population to author their own future and simultaneously develop systems that elevate the greater good of society.
+
+Testing Bibliography. [@saxenian1994]
