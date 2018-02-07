@@ -1,11 +1,11 @@
 ---
 title: "W201 Portfolio"
-author: "Oski Bear"
-date: "MIDS Fall 2017"
+author: "Mark Paluta"
+date: "MIDS Spring 2018"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: references.bib
-link-citations: yes
+link-citations: true
 biblio-style: apalike
 ---
 
