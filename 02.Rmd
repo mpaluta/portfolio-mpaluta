@@ -4,20 +4,20 @@
 
 DJ, set, mashups, concert, music
 
-## "I just want to get my music out and make sure that it's heard in the right way." -Dr. Dre
-
-Do you ever find changing radio stations during the outro of a song? Or skipping ahead to your favorite part of a song on Spotify? Or maybe you like to hear songs in their entirety, but that darn DJ keeps jumping around and killing your vibe. Have you mastered the art of a good playlist progression when you're assigned as the DJ in a car full of your friends?
-
 ## "I love technology. We can be our own DJs wherever we go." -Ludacris
 
-Enter Data4DJs: a service that informs DJs about listeners' preferences, allowing optimal mixing of sets.
+Do you ever find changing radio stations during the outro of a song? Or skipping ahead to your favorite part of a song on Spotify? Or maybe you like to hear songs in their entirety, but that darn DJ keeps jumping around and killing your vibe. Have you mastered the art of designing a good playlist when you get handed the smart phone in a car full of your friends?
+
+Now to all my DJ friends: You are tasked with not only selecting songs your audience wants, but ordering them properly and transitioning between them. When do you mix songs for a seamless transition and when do you pause the music to yell to your fans that their city has been the wildest one on the entire tour? You probably know that if you play all your chart-toppers at the beginning of a show, the audience will get bored at the end, but could you both open and close your set with that monster hit from your first album and get a positive response both times?
+
+For the casual music enthusiast and Avicii alike, the art of the perfect playlist is an elusive goal.
+
+## "A DJ can't just play one song. It's about playing a set, or how you connect songs in those two hours, and where you place them." -Zedd
+
+Enter Data-4-DJs: a service that informs DJs about listeners' preferences, allowing for optimal mixing of sets.
 
 This service doesn't replace artistic creativity; it is complementary.
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
-
-## "A DJ can't just play one song. It's about playing a set, or how you connect songs in those two hours, and where you place them." -Zedd
+## "When you go see a good DJ, you’ll know it... Between the guy who’s phoning it in and the guy who’s obsessively working it to give you the best show of his life." -Kaskade
 
 Whether at a rave, a wedding, or jamming with your friends, Data4DJs allows you to have the optimal listening experience as backed by research, data, and your own preferences.
