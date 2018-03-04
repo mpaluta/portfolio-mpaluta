@@ -1,25 +1,29 @@
-# My second cool idea {#slug-two}
+# Data-based DJ Sets {#data-4-DJs}
 
 #### Keywords {-}
 
-yaba, daba, do
+DJ set, mashup, concert, music
 
-## A beginning.
+## "I love technology. We can be our own DJs wherever we go." -Ludacris
 
-Nulla  sint  art party ex, mlkshk disrupt selvage 90's.  Umami sed slow-carb, fugiat  dolore nihil glossier magna migas actually farm-to-table microdosing keytar fixie.  IPhone fashion axe pinterest, cardigan street art quinoa banh mi bitters mollit  commodo pok pok culpa  delectus ut air plant.  Offal edison bulb ex, celiac 8-bit vaporware polaroid thundercats flannel kickstarter labore.  Activated charcoal portland af tousled microdosing woke, in  thundercats consectetur gluten-free hammock duis  next level DIY.  Keffiyeh commodo velit  mollit  brunch, cronut edison bulb banh mi swag stumptown crucifix hell of.  Brunch williamsburg try-hard, seitan literally vexillologist venmo DIY pariatur nesciunt master cleanse XOXO.
+Do you ever find yourself changing radio stations during the outro of a song? Or skipping ahead to your favorite part of a song on Spotify? Or maybe you like to hear songs in their entirety, but that darn DJ keeps jumping around and killing your vibe. Have you mastered the art of designing a good playlist when you get handed the smart phone in a car full of your friends?
 
-## A middle.
+Now to any DJs: You are tasked with not only selecting songs your audience wants, but ordering them properly and transitioning between them. When do you mix songs for a seamless transition and when do you pause the music to yell to your fans that their city has been the wildest one on the entire tour? You probably know that if you play all your chart-toppers at the beginning of a show, the audience will get bored at the end, but could you both open and close your set with that monster hit from your first album and get a positive response both times?
 
-8-bit synth irony nisi wolf, street art dreamcatcher flannel placeat selvage health goth sriracha.  Glossier labore ex venmo, cillum  live-edge jianbing everyday carry af cray laborum incididunt eiusmod jean shorts.  Normcore slow-carb lyft letterpress, beard tilde art party.  Poke marfa incididunt tempor duis.  Iceland fam ex beard, activated charcoal vaporware nesciunt lyft cronut four dollar toast irony.  Officia  stumptown voluptate  unicorn culpa  bushwick.  Mollit  vero af marfa deserunt  flexitarian.
+For the casual music enthusiast and Avicii alike, the art of the perfect playlist is an elusive goal. Creativity can't be fully automated, but that's that doesn't mean we can't let data help direct the creative process.
 
+## "A DJ can't just play one song. It's about playing a set, or how you connect songs in those two hours, and where you place them." -Zedd
 
-```{r experimental,echo=F,results='asis',eval=F}
-data.table::fread('https://raw.githubusercontent.com/UCB-MIDS/experiments-causality/master/data/GerberGreenBook_Chapter3_Donations.csv?token=ABNmuX-Q14rzQ4teItDenc9L5Wo2flncks5ZL5qEwA%3D%3D') %>% stargazer::stargazer(type = 'html',title = 'Something from W241 Experiments and Causality')
-```
+Introducing Data-4-DJs: a service that helps casual or professional DJs optimally mix songs. Data is collected from multiple sources including industry partners Spotify, Apple Music, and Pandora to identify patterns in listeners' preferences. Data is recorded on what songs users tend to accompany with one another, what order songs are played in, and when songs are skipped or replayed. The broad user base as well as multi-genre platforms allow for a massive and representative collection of data.
 
+From this raw data, trends are identified both for the general population and specific listeners. Songs might be compatible for a number of reasons, for example similar genre, beats per minute, or lyrical content. These features and more are represented in an neural network, so the derived relationships and optimal policy can be generalized to any new set of songs. These general principles are then refined for specific listeners. If a DJ knows his or her audience (at a wedding for example) or more broadly the audience demographic (at a concert), these more tailored details can be exploited. Preliminary efforts, such as that by Pampalk, Pohle, & Widmer have demonstrated success using primarily genre and artist information [@ other citekey]. This could work for certain scenarios but generalizing with other song attributes like Pandora's Music Genome Project will allow for better selection within a genre or an artist's repertoire [@ MGP citekey].
 
-Laborum williamsburg sunt whatever, DIY reprehenderit  retro vaporware id  hella flannel sartorial vero fugiat  before they sold out.  Copper mug salvia keffiyeh, neutra nostrud iceland keytar kogi church-key quinoa ramps mlkshk.  Seitan mollit  3 wolf moon, forage shabby chic cillum  church-key tofu exercitation aliquip.  Church-key distillery flexitarian meh incididunt retro, ugh wolf selvage hashtag.  Bicycle rights 90's officia  vape.  Listicle post-ironic vape ex.  Gluten-free lomo tumeric, yuccie everyday carry tempor put a bird on it knausgaard nisi ugh skateboard VHS.
+Our service also allows direct user feedback. An artist can integrate Data-4-DJs with their website and collect users responses to a show they attended. It collects both quantitative and qualitative feedback so that direct a direct comparison can be made numerically between two shows or more nuanced feedback can be used to fine-tune those hard to quantify elements.
 
-## An end.
+Another advantage for the casual user is the "set it and forget it" option. Rather than selecting songs one-by-one for a playlist, a single song can be used as a seed and the algorithm can take over from there. This is similar to Pandora's radio service, but it improves upon it by using a combination of song attributes and metadata and sources from multiple industry partners. Additionally, the goal is different: Pandora is a music discovery service, whereas our service is about creating an experience [@ Wikipedia citekey]. Thus, they fall on different ends of the exploration vs exploitation spectrum.
 
-Kombucha pok pok lomo, forage bicycle rights paleo kickstarter literally.  Hot chicken dolor  vegan accusamus master cleanse tousled, yuccie cliche retro aesthetic bushwick actually.  Ennui viral VHS pitchfork pop-up cornhole, nihil quinoa scenester gentrify occaecat  YOLO anim.  Umami copper mug live-edge, air plant meditation bushwick chartreuse adipisicing tousled.  Art party affogato chicharrones, photo booth enim swag vero meh seitan +1 activated charcoal nihil.  Etsy gluten-free authentic mixtape.  Shabby chic duis  90's pop-up pinterest, lumbersexual mollit  cillum.
+## "When you go see a good DJ, you’ll know it... Between the guy who’s phoning it in and the guy who’s obsessively working it to give you the best show of his life." -Kaskade
+
+This service doesn't replace artistic creativity; it is complementary. We know that the best artists succeed because they can channel emotion in unexplainable ways. But we also know that every artist has their hits and misses, and we want to use data to help them reach their maximum potential.
+
+Whether at a rave, a wedding, or jamming with your friends, Data-4-DJs allows you to provide the optimal listening experience as backed by research, data, and your listeners' own preferences. We know there is nothing more important to you than giving your listeners the best experience possible and we want to help you in that mission.
